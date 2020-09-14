@@ -63,3 +63,4 @@ end
 gem 'paperclip'
 gem 'table_print'
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
+gem 'bundler', '~> 2.1.4'
