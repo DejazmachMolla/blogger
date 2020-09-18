@@ -5,6 +5,10 @@
 
 [Live Demo](https://blooming-brook-15385.herokuapp.com/)
 
+## Screenshot
+
+![screenshot](./app/assets/images/article.PNG)
+
 ## Built With
 - Ruby On Rails
 - Heroku
@@ -26,7 +30,6 @@
 - run `rails s`
 - Open your browser and go to `http://localhost:3000`
 
-![screenshot](./app/assets/images/article.PNG)
 
 ## Authors
 
