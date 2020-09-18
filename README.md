@@ -1,24 +1,46 @@
-# README
+# Ruby Scraper
+> This project is a simple blogging app created to practice the Ruby On Rails development process
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Demo
 
-Things you may want to cover:
+[Live Demo](https://blooming-brook-15385.herokuapp.com/)
 
-* Ruby version
+## Built With
+- Ruby On Rails
+- Heroku
+- PostgreSQL
+- Rubocop
+- Paperclip
+- Image Magic
 
-* System dependencies
+## Requirements
+- The project enables CRUD oprations on Articles
+- The project enables commenting on Articles
+- The project enables adding tags for Articles
+- The code should be linted
 
-* Configuration
+## Getting Started
+- Clone the project in to your computer using `git clone https://github.com/DejazmachMolla/blogger.git` 
+- `cd` into the `blogger` folder
+- run `bundle install`
+- run `rails s`
+- Open your browser and go to `http://localhost:3000`
 
-* Database creation
+![screenshot](./app/assets/images/article.PNG)
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+:bust_in_silhouette: **Dejazmach Molla**
 
-* Services (job queues, cache servers, search engines, etc.)
+- Github: [@DejazmachMolla](https://github.com/DejazmachMolla)
+- Twitter: [@DJATSS](https://twitter.com/DJATSS)
+- Linkedin: [Dejazmach Molla](https://www.linkedin.com/in/dejazmach-getachew-027aabaa/)
 
-* Deployment instructions
+## Show your support
 
-* ...
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+- Heroku
